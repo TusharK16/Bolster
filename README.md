@@ -3,6 +3,7 @@
 List of dependencies (python libraries) :-
   1) Playwright for Python
   2) Beautiful Soup
+  3) Pymongo
 
 How to run program :-
 1) Install all the packages required
